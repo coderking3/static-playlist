@@ -1,0 +1,9 @@
+{
+  "name": "static-playlist",
+  "version": "1.0.0",
+  "description": "Static playlist",
+  "main": "index.js",
+  "author": "king3",
+  "license": "ISC",
+  "packageManager": "pnpm@10.30.0"
+}
